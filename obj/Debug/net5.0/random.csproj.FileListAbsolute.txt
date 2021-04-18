@@ -1,0 +1,16 @@
+C:\Prod-cod\random\bin\Debug\net5.0\random.exe
+C:\Prod-cod\random\bin\Debug\net5.0\random.deps.json
+C:\Prod-cod\random\bin\Debug\net5.0\random.runtimeconfig.json
+C:\Prod-cod\random\bin\Debug\net5.0\random.runtimeconfig.dev.json
+C:\Prod-cod\random\bin\Debug\net5.0\random.dll
+C:\Prod-cod\random\bin\Debug\net5.0\ref\random.dll
+C:\Prod-cod\random\bin\Debug\net5.0\random.pdb
+C:\Prod-cod\random\obj\Debug\net5.0\random.csprojAssemblyReference.cache
+C:\Prod-cod\random\obj\Debug\net5.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prod-cod\random\obj\Debug\net5.0\random.AssemblyInfoInputs.cache
+C:\Prod-cod\random\obj\Debug\net5.0\random.AssemblyInfo.cs
+C:\Prod-cod\random\obj\Debug\net5.0\random.csproj.CoreCompileInputs.cache
+C:\Prod-cod\random\obj\Debug\net5.0\random.dll
+C:\Prod-cod\random\obj\Debug\net5.0\ref\random.dll
+C:\Prod-cod\random\obj\Debug\net5.0\random.pdb
+C:\Prod-cod\random\obj\Debug\net5.0\random.genruntimeconfig.cache
