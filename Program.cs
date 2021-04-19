@@ -18,9 +18,9 @@ namespace random
                 {
 
                     Random num = new Random();
-                    int q = num.Next(0, 10);
+                    int q = num.Next(0, 100001);
                     counter++;
-                    if (q != 2)
+                    if (q != 10)
                     {
 
                     }
